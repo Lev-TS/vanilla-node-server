@@ -1,0 +1,18 @@
+{
+  "name": "Practicing Node.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "strat": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "Levan Tsutskiridze",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
+  }
+}
